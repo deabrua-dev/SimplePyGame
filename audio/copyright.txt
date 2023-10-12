@@ -1,0 +1,3 @@
+explosion.wav взят с: https://opengameart.org/content/512-sound-effects-8-bit-style
+fire.wav взят с игры Asteroid(1979)
+music.mp3 автор композиции: https://www.youtube.com/watch?v=eK_XFdIZqlY

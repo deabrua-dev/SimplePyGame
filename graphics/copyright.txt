@@ -1,0 +1,2 @@
+Объекты asteroid-2.png и explosion-sprite-1.png, explosion-sprite-2.png, explosion-sprite-3.png могут попадать под Copyright, сделаны на подобие уже существующих.
+Все остальные сделаны лично мной имею исходники из проектов в Крите.
